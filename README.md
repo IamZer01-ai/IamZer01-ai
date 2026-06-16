@@ -6,7 +6,18 @@ Ethical Hacker • Cyber Architect • AI Enthusiast • Linux Explorer
 
 Passionate about cybersecurity, artificial intelligence, Linux systems, automation, and continuous learning. I use GitHub to document projects, research, technical notes, and hands-on learning experiences.
 
-## 🚀 Current Focus
+🔒 **Cybersecurity Professional** — [Penetration Tester / SOC Analyst / Security Engineer / etc.]
+
+- 🔭 Currently working on: [e.g., web app pentesting automation tools]
+- 🌱 Learning: [e.g., malware analysis, cloud security, OSINT]
+- 🏆 Certifications: [e.g., OSCP, CEH, Security+, GPEN]
+- 💬 Ask me about: [e.g., web app security, CTF challenges, network defense]
+- 📫 Reach me: [LinkedIn, email, website]
+
+### 🛠️ Tools & Technologies
+- **Pentesting:** Burp Suite, Metasploit, Nmap, Wireshark
+- **Languages:** Python, Bash, PowerShell, SQL
+- **Platforms:** Kali Linux, AWS Security, Docker## 🚀 Current Focus
 
 * Cybersecurity Fundamentals
 * Linux & System Administration
